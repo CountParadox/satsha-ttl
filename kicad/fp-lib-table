@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "satsha-ttl")(type "KiCad")(uri "$(KIPRJMOD)/satsha-ttl.pretty")(options "")(descr ""))
+)

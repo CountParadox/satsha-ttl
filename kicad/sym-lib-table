@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "satsha-ttl-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/satsha-ttl-eagle-import.kicad_sym")(options "")(descr ""))
+)
